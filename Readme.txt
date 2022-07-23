@@ -1,0 +1,2 @@
+First of all open xampp server and import database and open backend folder and then run command npm install and then node index.js
+Note:Sorry for using mysql database instead postgresql because postgresql database issue in my pc.
